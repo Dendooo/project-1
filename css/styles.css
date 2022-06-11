@@ -1,0 +1,35 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+img {
+  margin-top: 10px;
+  width: 280px;
+  border-radius: 20px;
+}
+
+.kotak-1 {
+  position: relative;
+  margin: 100px auto;
+  text-align: center;
+  width: 300px;
+  height: 500px;
+  background-color: White;
+  border-radius: 20px;
+}
+
+.p-1 {
+  font-family: 'Outfit', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.p-2 {
+  width: 80%;
+  position: relative;
+  margin: auto;
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
